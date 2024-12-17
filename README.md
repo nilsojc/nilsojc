@@ -19,7 +19,7 @@
 
 <h2>👨‍💻 AWS Hands-on Projects</h2>   
 
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2023/fIiMlL.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E22AQEx3Bh092HTtA/feedshare-shrink_800/feedshare-shrink_800/0/1700101809100?e=2147483647&v=beta&t=5URA87r12cXDSJayTKHW9Fo-_70mxoCCPpGYXYcw_Fs">
 
 <!--
 **Nil8888/Nil8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
