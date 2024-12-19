@@ -10,7 +10,7 @@
 
 ### Microsoft Azure
 - [Configuring On-Premises Active Directory within Azure](https://github.com/nilsojc/configure-ad) 
-- [Monitor and Log Data with Azure Monitor and Log Analytics / Create Alerts and visualize data creating dashboards](https://github.com/nilsojc/network-protocols)
+- [Monitor and Log Data with Azure Monitor and Log Analytics / Create Alerts and visualize data creating dashboards](https://github.com/nilsojc/azure-log-dashboard)
 
 
 ---
