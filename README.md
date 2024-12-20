@@ -18,7 +18,12 @@
 
 
 <h2>👨‍💻 AWS Hands-on Projects</h2>   
+
+### S3
+
 [Creating a Resume from an S3 Bucket using a static website](https://github.com/nilsojc/resumefromstaticwebsite) 
+
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E22AQEx3Bh092HTtA/feedshare-shrink_800/feedshare-shrink_800/0/1700101809100?e=2147483647&v=beta&t=5URA87r12cXDSJayTKHW9Fo-_70mxoCCPpGYXYcw_Fs">
 
 <!--
