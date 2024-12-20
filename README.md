@@ -21,7 +21,7 @@
 
 ### S3
 
-[Host a Static Website utilizing S3, Cloudfront and Route 53](https://github.com/nilsojc/resumefromstaticwebsite) 
+[Hosting a Static Website utilizing S3, Cloudfront and Route 53](https://github.com/nilsojc/resumefromstaticwebsite) 
 
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E22AQEx3Bh092HTtA/feedshare-shrink_800/feedshare-shrink_800/0/1700101809100?e=2147483647&v=beta&t=5URA87r12cXDSJayTKHW9Fo-_70mxoCCPpGYXYcw_Fs">
