@@ -18,17 +18,20 @@
 
 
 <h2>👨‍💻 AWS Hands-on Projects</h2>   
+<img align="right" alt="Coding" width="250" src="https://media.licdn.com/dms/image/v2/D4E22AQEx3Bh092HTtA/feedshare-shrink_800/feedshare-shrink_800/0/1700101809100?e=2147483647&v=beta&t=5URA87r12cXDSJayTKHW9Fo-_70mxoCCPpGYXYcw_Fs">
 
 ### S3
 
 - [Hosting a Resume from Static Website utilizing S3, Cloudfront and Route 53](https://github.com/nilsojc/resumefromstaticwebsite)
 
 
-  ### Kubernetes
-- [Hosting a Resume from Kubernetes using Docker and Amazon Elastic Kubernetes Service (EKS)](https://github.com/nilsojc/resumefromstaticwebsite) 
+### Kubernetes
+- [Hosting a Resume from Kubernetes using Docker and Amazon Elastic Kubernetes Services](https://github.com/nilsojc/resumefromstaticwebsite)
+
+  
+                
 
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E22AQEx3Bh092HTtA/feedshare-shrink_800/feedshare-shrink_800/0/1700101809100?e=2147483647&v=beta&t=5URA87r12cXDSJayTKHW9Fo-_70mxoCCPpGYXYcw_Fs">
 
 <!--
 **Nil8888/Nil8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
