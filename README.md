@@ -21,7 +21,10 @@
 
 ### S3
 
-- [Hosting a Resume from Static Website utilizing S3, Cloudfront and Route 53](https://github.com/nilsojc/resumefromstaticwebsite) 
+- [Hosting a Resume from Static Website utilizing S3, Cloudfront and Route 53](https://github.com/nilsojc/resumefromstaticwebsite)
+
+
+  ### Kubernetes
 - [Hosting a Resume from Kubernetes using Docker and Amazon Elastic Kubernetes Service (EKS)](https://github.com/nilsojc/resumefromstaticwebsite) 
 
 
