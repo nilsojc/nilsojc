@@ -26,7 +26,7 @@
 
 
 ### Kubernetes
-- [Hosting a Resume from Kubernetes using Docker and Amazon Elastic Kubernetes Services](https://github.com/nilsojc/resumefromkubernetes)
+- [Hosting a Resume from Kubernetes using Docker and Amazon Elastic Kubernetes Services](https://github.com/nilsojc/kubernetesresume)
 
   
                 
