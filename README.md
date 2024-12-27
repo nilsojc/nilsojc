@@ -1,4 +1,4 @@
-## Hi there! My name is Nilso. I am an IT Professional/Cloud Practicioner. 👋
+## Hi there! My name is Nilso. I am an IT Professional/Cloud Practitioner. 👋
 ---
 
 <h2>📂 Information Technology Projects</h2>
