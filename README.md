@@ -1,5 +1,6 @@
 ## Hi there! My name is Nilso. I am an IT Professional/Cloud Practitioner. 👋
 ---
+IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, and Docker. Proficient in resolving complex technical challenges, customer resolution and service, managing ticket systems, and delivering scalable cloud solutions. Known for adaptability, attention to detail, and a commitment to continuous learning, I bring hands-on expertise to drive efficiency and innovation in cloud environments.
 
 <h2>📂 Information Technology Projects</h2>
 
