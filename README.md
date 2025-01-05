@@ -25,7 +25,7 @@ IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, a
 
 - [Hosting a Resume from Static Website utilizing S3, Cloudfront and Route 53](https://github.com/nilsojc/resumefromstaticwebsite)
 - [Building an image labels generator using Amazon Rekognition](https://github.com/nilsojc/labelswithamazon)
-- [Building a language translation bot using Amazon Lex](https://github.com/nilsojc/amazonpollywiths3) 
+- [Developing a text narrator using Amazon Polly](https://github.com/nilsojc/amazonpollywiths3) 
 
 
 ### Kubernetes
