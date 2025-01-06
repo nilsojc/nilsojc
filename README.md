@@ -36,6 +36,7 @@ IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, a
 - [Hosting a Resume from Kubernetes using Docker and Amazon Elastic Kubernetes Services](https://github.com/nilsojc/kubernetesresume)
 
 <h2>30-day DevOps Challenge</h2>   
+
   - [Creating a Weather Dashboard](https://github.com/nilsojc/weatherdash)
                 
 
