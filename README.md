@@ -40,9 +40,14 @@ IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, a
 
 <h2>30-day DevOps Challenge</h2>   
 
+***Week 1***
   - [Creating a Weather Dashboard using S3 and OpenWeather API](https://github.com/nilsojc/weatherdash)
   - [Creating a Sports Alerts System with EventBridge and SportsDataIo API](https://github.com/nilsojc/gamedaynotifications)
   - [Creating an AWS Glue Database with Sport Data using Amazon S3 and Amazon Athena](https://github.com/nilsojc/epldatalake)
+
+***Week 2***
+  - [Building a Containerized API Management System for Querying Sports Data](https://github.com/nilsojc/serieapipeline)
+
                 
 
 
