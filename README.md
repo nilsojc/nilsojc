@@ -47,7 +47,7 @@ IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, a
 
 ***Week 2***
   - [Building a Containerized API Management System for Querying Sports Data](https://github.com/nilsojc/serieapipeline)
-  - [Converting Champions League Football Highlights with Docker, Terraform and Amazon Media Converter](https://github.com/nilsojc/championsleaguegametime)
+  - [Converting NCAA Basketball Highlights with Docker, Terraform and Amazon Media Converter](https://github.com/nilsojc/championsleaguegametime)
 
                 
 <h2>MultiCloud, DevOps & AI Challenge</h2> 
