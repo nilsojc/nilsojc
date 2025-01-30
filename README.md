@@ -53,8 +53,8 @@ IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, a
 <h2>MultiCloud, DevOps & AI Challenge</h2> 
 
 - [Automating AWS Provisioning with Terraform](https://github.com/nilsojc/multicloud1)
+- [Deploying Docker Images for an E-commerce Website with Kubernetes](https://github.com/nilsojc/multicloud2)
 - 
-
 
 
 <!--
