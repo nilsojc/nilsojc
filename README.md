@@ -49,12 +49,18 @@ IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, a
   - [Building a Containerized API Management System for Querying Sports Data](https://github.com/nilsojc/serieapipeline)
   - [Converting NCAA Basketball Highlights with Docker, Terraform and Amazon Media Converter](https://github.com/nilsojc/championsleaguegametime)
   - [Building a Containerized Soccer Stats App](https://github.com/nilsojc/soccerdocker)
-                
+
+***Week 3***
+ - [Automating Sports Data Highlights](https://github.com/nilsojc/sportsdatabackup)
+ - [Building a Game Day Notification System with Terraform](https://github.com/nilsojc/automategameday)
+   
 <h2>MultiCloud, DevOps & AI Challenge</h2> 
 
 - [Automating AWS Provisioning with Terraform](https://github.com/nilsojc/multicloud1)
 - [Deploying Docker Images for an E-commerce Website with Kubernetes](https://github.com/nilsojc/multicloud2)
-
+- [Building and Automating CI/CD Pipeline to Test, Stage and Deploy our E-Commerce Application](https://github.com/nilsojc/multicloud3)
+- [Creating and Building AI agents for deployment in the E-commerce Website Cloudmart](https://github.com/nilsojc/multicloud4)
+- [Implementing analytics integration and deploying E-commerce Cloudmart to Production](https://github.com/nilsojc/multicloud5)
 
 
 <!--
