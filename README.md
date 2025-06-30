@@ -62,6 +62,10 @@ IT professional and cloud strategist with expertise in AWS, Azure, Kubernetes, a
 - [Creating and Building AI agents for deployment in the E-commerce Website Cloudmart](https://github.com/nilsojc/multicloud4)
 - [Implementing analytics integration and deploying E-commerce Cloudmart to Production](https://github.com/nilsojc/multicloud5)
 
+<h2>Networking Fundamentals Bootcmap 2025</h2>
+
+- [Repo with Projects and Labs](https://github.com/nilsojc/exp-net-fundamentals-2025-Q2)
+
 
 <!--
 **Nil8888/Nil8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
